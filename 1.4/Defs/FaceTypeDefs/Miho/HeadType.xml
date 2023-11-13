@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+	<FacialAnimation.HeadTypeDef>
+		<defName>MihoHead</defName>		<!--Miho-->
+		<raceName>BA_Race_ARBase</raceName>
+		<texPath>Things/Pawn/BA/Heads_Blank/Miho</texPath>
+		<shader>Map/CutoutSkin</shader>
+	</FacialAnimation.HeadTypeDef>
+
+</Defs>

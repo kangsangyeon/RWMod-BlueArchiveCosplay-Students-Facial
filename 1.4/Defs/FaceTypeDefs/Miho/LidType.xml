@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+  <FacialAnimation.LidTypeDef>
+    <defName>MihoLidArctic</defName>
+    <raceName>BA_Race_ARBase</raceName>
+    <texPath>Things/Pawn/BA/Lids/Arctic</texPath>    <!--Arctic-->
+    <shader>Map/Transparent</shader>
+  </FacialAnimation.LidTypeDef>
+
+  <FacialAnimation.LidTypeDef>
+    <defName>MihoLidDesert</defName>
+    <raceName>BA_Race_ARBase</raceName>
+    <texPath>Things/Pawn/BA/Lids/Desert</texPath>    <!--Desert-->
+    <shader>Map/CutoutSkin</shader>
+  </FacialAnimation.LidTypeDef>
+
+  <FacialAnimation.LidTypeDef>
+    <defName>MihoLidHighland</defName>
+    <raceName>BA_Race_ARBase</raceName>
+    <texPath>Things/Pawn/BA/Lids/Highland</texPath>    <!--Highland-->
+    <shader>Map/CutoutSkin</shader>
+  </FacialAnimation.LidTypeDef>
+
+  <FacialAnimation.LidTypeDef>
+    <defName>MihoLidNormal1</defName>
+    <raceName>BA_Race_ARBase</raceName>
+    <texPath>Things/Pawn/BA/Lids/Normal1</texPath>    <!--Head1-->
+    <shader>Map/CutoutSkin</shader>
+  </FacialAnimation.LidTypeDef>
+  <FacialAnimation.LidTypeDef>
+    <defName>MihoLidNormal3</defName>
+    <raceName>BA_Race_ARBase</raceName>
+    <texPath>Things/Pawn/BA/Lids/Normal3</texPath>    <!--Head3-->
+    <shader>Map/CutoutSkin</shader>
+  </FacialAnimation.LidTypeDef>
+
+  <FacialAnimation.LidTypeDef>
+    <defName>MihoLidNormal4</defName>
+    <raceName>BA_Race_ARBase</raceName>
+    <texPath>Things/Pawn/BA/Lids/Normal4</texPath>    <!--Head4-->
+    <shader>Map/CutoutSkin</shader>
+  </FacialAnimation.LidTypeDef>
+
+</Defs>

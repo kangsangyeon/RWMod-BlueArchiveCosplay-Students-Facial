@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>BlueArchive Cosplay - Students [Facial]</name>
+	<packageId>bluearchive.students.facial</packageId>
+	<author>WIP</author>
+
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+
+	<description>
+		BlueArchive Cosplay - Students [Facial]
+	</description>
+
+	<modDependencies>
+		<li>
+			<packageId>bluearchive.students</packageId>
+			<displayName>BlueArchive Cosplay - Students</displayName>
+		</li>
+	</modDependencies>
+
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>erdelf.HumanoidAlienRaces</li>
+		<li>bluearchive.students</li>
+	</loadAfter>
+	<forceLoadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>erdelf.HumanoidAlienRaces</li>
+		<li>bluearchive.students</li>
+	</forceLoadAfter>
+
+</ModMetaData>

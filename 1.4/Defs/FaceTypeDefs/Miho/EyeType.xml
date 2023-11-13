@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+  <FacialAnimation.EyeballTypeDef>
+    <defName>MihoEyeArctic</defName>
+    <raceName>BA_Race_ARBase</raceName>
+    <texPath>Things/Pawn/BA/Eyes/Arctic</texPath>    <!--Arctic-->
+    <shader>Map/CutoutComplex</shader>
+    <minColor>RGB(0.25,0.25,0.25)</minColor>
+    <maxColor>RGB(0.85,0.85,0.85)</maxColor>
+  </FacialAnimation.EyeballTypeDef>
+
+  <FacialAnimation.EyeballTypeDef>
+    <defName>MihoEyeDesert</defName>
+    <raceName>BA_Race_ARBase</raceName>
+    <texPath>Things/Pawn/BA/Eyes/Desert</texPath>    <!--Desert-->
+    <shader>Map/CutoutComplex</shader>
+    <minColor>RGB(0.25,0.25,0.25)</minColor>
+    <maxColor>RGB(0.85,0.85,0.85)</maxColor>
+  </FacialAnimation.EyeballTypeDef>
+
+  <FacialAnimation.EyeballTypeDef>
+    <defName>MihoEyeHighland</defName>
+    <raceName>BA_Race_ARBase</raceName>
+    <texPath>Things/Pawn/BA/Eyes/Highland</texPath>    <!--Highland-->
+    <shader>Map/CutoutComplex</shader>
+    <minColor>RGB(0.25,0.25,0.25)</minColor>
+    <maxColor>RGB(0.85,0.85,0.85)</maxColor>
+  </FacialAnimation.EyeballTypeDef>
+
+  <FacialAnimation.EyeballTypeDef>
+    <defName>MihoEyeNormal1</defName>
+    <raceName>BA_Race_ARBase</raceName>
+    <texPath>Things/Pawn/BA/Eyes/Normal1</texPath>    <!--Head1
+    星星眼-->
+    <shader>Map/CutoutComplex</shader>
+    <minColor>RGB(0.25,0.25,0.25)</minColor>
+    <maxColor>RGB(0.85,0.85,0.85)</maxColor>
+  </FacialAnimation.EyeballTypeDef>
+
+  <FacialAnimation.EyeballTypeDef>
+    <defName>MihoEyeNormal3</defName>
+    <raceName>BA_Race_ARBase</raceName>
+    <texPath>Things/Pawn/BA/Eyes/Normal3</texPath>    <!--Head3
+    女性紅眼 男性藍眼-->
+    <shader>Map/CutoutComplex</shader>
+    <minColor>RGB(0.25,0.25,0.25)</minColor>
+    <maxColor>RGB(0.85,0.85,0.85)</maxColor>
+  </FacialAnimation.EyeballTypeDef>
+
+  <FacialAnimation.EyeballTypeDef>
+    <defName>MihoEyeNormal4</defName>
+    <raceName>BA_Race_ARBase</raceName>
+    <texPath>Things/Pawn/BA/Eyes/Normal4</texPath>    <!--Head4
+    黑眼-->
+    <shader>Map/CutoutComplex</shader>
+    <minColor>RGB(0.25,0.25,0.25)</minColor>
+    <maxColor>RGB(0.85,0.85,0.85)</maxColor>
+  </FacialAnimation.EyeballTypeDef>
+</Defs>

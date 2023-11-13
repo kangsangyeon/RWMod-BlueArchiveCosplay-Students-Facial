@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+  <FacialAnimation.FaceAdjustmentDef>
+    <defName>BA_FaceSizeAndPositionDef</defName>
+    <RaceName>BA_Race_ARBase</RaceName>
+    <Size>(1.13,1.13)</Size>
+    <OffsetNorth>(0,0)</OffsetNorth>
+    <OffsetEast>(0,0)</OffsetEast>
+    <OffsetSouth>(0,0)</OffsetSouth>
+    <OffsetWest>(0,0)</OffsetWest>
+  </FacialAnimation.FaceAdjustmentDef>
+
+</Defs>

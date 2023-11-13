@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MihoMouthArctic</defName>
+		<raceName>BA_Race_ARBase</raceName>
+		<texPath>Things/Pawn/BA/Mouth/Arctic</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MihoMouthDesert</defName>
+		<raceName>BA_Race_ARBase</raceName>
+		<texPath>Things/Pawn/BA/Mouth/Desert</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MihoMouthHighland</defName>
+		<raceName>BA_Race_ARBase</raceName>
+		<texPath>Things/Pawn/BA/Mouth/Highland</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MihoMouthNormal1_4</defName>
+		<raceName>BA_Race_ARBase</raceName>
+		<texPath>Things/Pawn/BA/Mouth/Normal1_4</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.MouthTypeDef>
+</Defs>

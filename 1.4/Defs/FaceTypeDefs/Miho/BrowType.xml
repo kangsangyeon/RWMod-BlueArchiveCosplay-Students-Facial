@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+	<FacialAnimation.BrowTypeDef>
+		<defName>MihoFABrowNormal</defName>
+		<raceName>BA_Race_ARBase</raceName>
+		<texPath>Things/Pawn/BA/Brows/Normal</texPath>
+		<shader>Map/Transparent</shader>
+	</FacialAnimation.BrowTypeDef>
+</Defs>
